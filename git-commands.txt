@@ -11,4 +11,5 @@ Some common git commands
 
 -- commit
 > git add .
+> git add --all
 > git commit -m "Message for commit"
