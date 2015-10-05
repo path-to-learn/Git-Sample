@@ -11,5 +11,10 @@ Some common git commands
 
 -- commit
 > git add .
-> git add --all
-> git commit -m "Message for commit"
+> git pull -- uptodates the current project from repositry
+> git add --all -- adds files prior to commit
+> git commit -m "Message for commit" -- actually commit commands
+> git push -- pushes to web ui
+
+-- Good turotial for beginers @ following video
+https://www.youtube.com/watch?v=E8TXME3bzNs
