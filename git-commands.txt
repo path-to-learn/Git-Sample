@@ -1,0 +1,14 @@
+
+Some common git commands
+
+--handy commands
+> git init
+> git status
+
+-- cloning, This will clone your project from web interface to local machine
+> git clone https://github.com/prashant0810/Git-Sample
+> git add --all
+
+-- commit
+> git add .
+> git commit -m "Message for commit"
